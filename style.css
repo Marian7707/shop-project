@@ -195,6 +195,7 @@ input {
   font-family: "Roboto";
   font-weight: thin;
   color: white;
+  background-color: rgba(0, 0, 0, 0.2);
 }
 section {
   margin-right: 4rem;
